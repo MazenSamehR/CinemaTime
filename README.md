@@ -14,16 +14,6 @@ Cinema Time is a captivating front-end web project that provides users with a se
 
 - **Background Customization:** The admin page also offers administrators the unique capability to change the backgrounds of all web pages. This allows for a personalized touch and enhances the overall visual appeal of the website.
 
-## Installation
-
-To set up Cinema Time locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/cinema-time.git`
-2. Navigate to the project directory: `cd cinema-time`
-3. Install dependencies: `npm install`
-4. Launch the application: `npm start`
-5. Access the website through your browser at `http://localhost:3000`
-
 ## Technologies Used
 
 Cinema Time is built using the following technologies:
