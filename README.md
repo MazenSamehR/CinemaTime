@@ -1,5 +1,4 @@
 # CinemaTime
-# Cinema Time
 
 Cinema Time is a captivating front-end web project that provides users with a seamless platform to register, log in, and immerse themselves in a vast collection of movies, TV shows, and anime. This project leverages local storage for secure user authentication, ensuring a smooth and enjoyable experience.
 
